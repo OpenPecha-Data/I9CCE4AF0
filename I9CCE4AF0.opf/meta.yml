@@ -1,0 +1,18 @@
+id: I9CCE4AF0
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:58.370294
+last_modified: 2023-01-04 11:30:58.370306
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  E4E8:
+    title: A Guide to Uḍḍiyāna (Ujjain), Benglor
+    base_file: E4E8.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
